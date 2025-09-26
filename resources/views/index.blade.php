@@ -67,7 +67,7 @@
                                 </i>
                                 <i class="fas fa-map-marked-alt" style="margin-left: 15px"><br>
                                     <p style="color: #000">Address <br>
-                                        <h5>Dusun Ngadas, Ngadas, Poncokusumo, Malang Regency, East Java 65157</h5>
+                                        <h5>Cimanggis, Depok</h5>
                                     </p>
                                 </i>
                                 <i class="fas fa-envelope" style="margin-left: 15px"><br>
